@@ -6,8 +6,7 @@ My favorites sport is football, volleyball, swimming, and gym...
 
 * ✉️  You can contact me at [duykhangp7@gmail.com](mailto:duykhangp7@gmail.com)
 
-<a href="https://www.github.com/duykhanp7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/duykhanp7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/duykhanp7" target="_blank" rel="noreferrer"></a>
 
 ### Skills
 
